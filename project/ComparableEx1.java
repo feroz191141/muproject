@@ -12,6 +12,9 @@ public class ComparableEx1 {
 		Product p4 = new Product(104 , "iphone" , 4.3f ,100000 );
 		Product p5 = new Product(105 , "alexa" , 4.5f ,3000 );
 		
+		Product p4 = new Product(104 , "iphone" , 4.3f ,100000 );
+		Product p5 = new Product(105 , "alexa" , 4.5f ,3000 );
+		
 		ArrayList<Product> prodList = new ArrayList<Product>();
 		//adding products to the array
 		prodList.add(p1);
